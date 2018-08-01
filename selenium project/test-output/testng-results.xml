@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109" started-at="2018-07-23T16:10:47Z" finished-at="2018-07-23T16:10:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109" started-at="2018-07-23T16:10:47Z" finished-at="2018-07-23T16:10:48Z">
+      <class name="pac.CartTest">
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:pac.CartTest@39aeed2f]" name="addToCart" duration-ms="32" started-at="2018-07-23T20:10:47Z" data-provider="getData" finished-at="2018-07-23T20:10:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sony]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:pac.CartTest@39aeed2f]" name="addToCart" duration-ms="15" started-at="2018-07-23T20:10:47Z" data-provider="getData" finished-at="2018-07-23T20:10:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:pac.CartTest@39aeed2f]" name="addToCart" duration-ms="0" started-at="2018-07-23T20:10:47Z" data-provider="getData" finished-at="2018-07-23T20:10:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:pac.CartTest@39aeed2f]" name="addToCart" duration-ms="0" started-at="2018-07-23T20:10:47Z" data-provider="getData" finished-at="2018-07-23T20:10:47Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:pac.CartTest@39aeed2f]" name="addToCart" duration-ms="0" started-at="2018-07-23T20:10:47Z" data-provider="getData" finished-at="2018-07-23T20:10:47Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- pac.CartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
